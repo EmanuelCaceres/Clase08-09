@@ -1,0 +1,7 @@
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\bin\Debug\Clase08-09.exe.config
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\bin\Debug\Clase08-09.exe
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\bin\Debug\Clase08-09.pdb
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\obj\Debug\Clase08-09.exe
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\obj\Debug\Clase08-09.pdb
+C:\Users\Parcaman\source\repos\Clase08-09\Clase08-09\obj\Debug\Almacen.csprojAssemblyReference.cache

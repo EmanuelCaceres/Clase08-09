@@ -1,0 +1,7 @@
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\bin\Debug\Veterinario.exe.config
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\bin\Debug\Veterinario.exe
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\bin\Debug\Veterinario.pdb
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\obj\Debug\Veterinario.csprojAssemblyReference.cache
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\obj\Debug\Veterinario.csproj.CoreCompileInputs.cache
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\obj\Debug\Veterinario.exe
+C:\Users\Parcaman\source\repos\Clase08-09\Veterinario\obj\Debug\Veterinario.pdb

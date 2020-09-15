@@ -1,0 +1,7 @@
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\bin\Debug\Futbolista.exe.config
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\bin\Debug\Futbolista.exe
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\bin\Debug\Futbolista.pdb
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\obj\Debug\Futbolista.csprojAssemblyReference.cache
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\obj\Debug\Futbolista.csproj.CoreCompileInputs.cache
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\obj\Debug\Futbolista.exe
+C:\Users\Parcaman\source\repos\Clase08-09\Futbolista\obj\Debug\Futbolista.pdb
